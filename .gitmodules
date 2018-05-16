@@ -1,0 +1,6 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = git://git.denx.de/u-boot.git
+[submodule "rpi-tools"]
+	path = rpi-tools
+	url = git@github.com:raspberrypi/tools.git
